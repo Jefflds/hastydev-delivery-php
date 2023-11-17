@@ -1,0 +1,21 @@
+{
+    "name": "brpla/hastydev",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Model\\": "src/Model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jefferson Laurindo da Silva",
+            "email": "107891837+Jefflds@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "config": {
+        "vendor-dir": "vendor"
+    }
+}
